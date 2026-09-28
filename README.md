@@ -1,4 +1,4 @@
-# SAT Math AI Practice — Local MVP
+# SAT Math AI Practice App — Local MVP
 
 This repository contains a local-only MVP for an SAT Math practice application.
 
